@@ -1,4 +1,4 @@
-## Terraform and Kubernetes assignment for DevOps candidates
+## Terraform and Kubernetes assignment for DevOps candidates - v2
 
 ### Requirements:
 - any Kubernetes environment, e.g. 
